@@ -12,7 +12,7 @@ their Puppet modules and which might be useful for other people/purposes/... as 
 This fact provides an array of all applied Puppet classes which might be useful for visualization in frontends (Foreman,
 Puppetboards, ...) or for checking whether a specific class is loaded (without parsing the catalog resources).
 
-### `lsbdistdesc`
+### `lsbdistdesc` (Linux)
 
 This is the same as the (deprecated) legacy fact `lsbdistdescription` (which is useful for graphing in Puppetboard
 e.g.).
